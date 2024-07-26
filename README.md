@@ -13,20 +13,17 @@
    git clone https://github.com/Msutreja/Laravel-project.git
    cd your-repo-name
 
-2. **Run Project:**
-3. ```bash
-   
-php artisan make:migrate
+2. **Create Migration For Set up data base and Table:**
+    ```bash
+    php artisan make:migrate
+    ```
+
+3. **Run Project:**
+      ```bash
+    php artisan serve
+    ```
 
 
-4.  ```bash
-   when you done download project and locally setup complete
-    go to your Terminal
-    # write this artisan command
-    => php artisan migrate
-    => php artisan serve
-
-    your project is ready 
 
 
 
