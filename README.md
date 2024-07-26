@@ -15,7 +15,10 @@
 
 2. **Run Project:**
 3. ```bash
+   
 php artisan make:migrate
+
+
 4.  ```bash
    when you done download project and locally setup complete
     go to your Terminal
